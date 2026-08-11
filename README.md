@@ -20,7 +20,6 @@ new ideas emerge and old ones get revised.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Day-to-Day Work](#day-to-day-work)
   - [Leave Things Better](#leave-things-better)
   - [Identify and Solve Issues](#identify-and-solve-issues)
@@ -188,7 +187,7 @@ new ideas emerge and old ones get revised.
   - [Sound Check](#sound-check)
   - [Ensure the Key People Are Attending](#ensure-the-key-people-are-attending)
   - [Meeting Agenda](#meeting-agenda)
-  - [Present and Confirm the Agenda at the Start of the Meeting](#present-and-confirm-the-agenda-at-the-start-of-the-meeting)
+  - [Confirm and Adapt the Agenda Before Starting a Meeting](#confirm-and-adapt-the-agenda-before-starting-a-meeting)
   - [Balance the Agenda with the Meeting Flow](#balance-the-agenda-with-the-meeting-flow)
   - [Balanced participation in meetings](#balanced-participation-in-meetings)
   - [Avoid interrupting each other](#avoid-interrupting-each-other)
@@ -2285,7 +2284,6 @@ A merge request review is much easier when the MR is dedicated to only one
 aspect of change, so the reviewer can focus on that aspect.
 
 - **Behavioral changes:**
-
   - Adding new features
   - Refactoring or improving existing software
   - Deleting features
@@ -2794,18 +2792,35 @@ A well-prepared meeting runs smoothly when attendees know what to expect.
 - Can you or your team define it?
 - Are there questions or answers that can be prepared beforehand?
 
-### Present and Confirm the Agenda at the Start of the Meeting
+### Confirm and Adapt the Agenda Before Starting a Meeting
 
 When starting a meeting, consider presenting the entire agenda to the group
 before going into the first topic. This helps participants prepare for what is
-coming. Presenting the agenda upfront gives everyone a better understanding of
-the meeting's structure. It can also be a good opportunity to rearrange agenda
-items if some topics are closely related and can be discussed together.
-Additionally, participants whose only concern is a specific topic may be able to
-leave the meeting once that topic has been covered. Starting a meeting without
-first reviewing and confirming the agenda leaves participants without a clear
-overview of the discussion. As a result, they may not fully understand the
-meeting's structure or how the individual topics fit together.
+coming.
+
+Presenting the agenda upfront gives everyone a better understanding of the
+meeting's structure. It can also be a good opportunity to rearrange agenda items
+if some topics are closely related and can be discussed together. Additionally,
+participants whose only concern is a specific topic may be able to leave the
+meeting once that topic has been covered.
+
+The initial agenda should not be treated as fixed. At the beginning of the
+meeting, participants may suggest additional discussion points or identify
+topics that have become more important since the agenda was prepared. Consider
+editing and reordering the agenda to match the current priorities, the people
+present, and the momentum of the discussion.
+
+At the same time, the agenda exists to keep the meeting focused and to avoid
+unnecessary distractions. An experienced facilitator should use their best
+judgment to decide when to keep the discussion on the planned agenda and when it
+is worth adjusting the agenda to capture a valuable opportunity. The goal is not
+to follow the agenda rigidly or to change it constantly, but to use it as a tool
+that helps the meeting achieve the best outcome.
+
+Starting a meeting without first reviewing and confirming the agenda leaves
+participants without a clear overview of the discussion. As a result, they may
+not fully understand the meeting's structure or how the individual topics fit
+together.
 
 ### Balance the Agenda with the Meeting Flow
 
