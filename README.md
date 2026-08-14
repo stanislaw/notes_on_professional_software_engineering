@@ -74,6 +74,7 @@ new ideas emerge and old ones get revised.
   - [Avoid "us vs. them". Use names instead.](#avoid-us-vs-them-use-names-instead)
 - [Complexity and Cognitive Load](#complexity-and-cognitive-load)
   - [Solving Right Problems](#solving-right-problems)
+  - [Good model of the problem and solution](#good-model-of-the-problem-and-solution)
   - [Solutions Are Context-Driven](#solutions-are-context-driven)
   - [Evolution from Local Optimum to Better Optimum](#evolution-from-local-optimum-to-better-optimum)
   - [Weakest Link](#weakest-link)
@@ -1179,6 +1180,25 @@ https://en.wikipedia.org/wiki/Cognitive_load (and Cognitive Overload)
 
 "Engineers are great at solving problems but they are not always great at
 identifying the right problems to be solved" (Dr. John Thomas, ESWC 2019).
+
+### Good model of the problem and solution
+
+Development work becomes much easier and more effective when the developer can
+build a good model of both the problem and its solution.
+
+A good model is like a good mental handle on a problem and its solution. It
+helps us understand and control the different aspects of our work. A good model
+should be simple enough for everyone involved to understand while still
+capturing the important parts of the problem. It should also lead to a solution
+that is practical to implement and manageable over time.
+
+A thorough way to define the model is to describe it in a clear, possibly
+formal, way. For example, it can be written down as requirements or a design
+description, or visualized with diagrams. The quality of the model itself can be
+tested by trying to express it clearly. Writing it down, drawing it, and
+thinking it through helps reveal incompleteness or inconsistencies. If the model
+is difficult to explain in writing or draw as a diagram, this may indicate that
+the model needs improvement or should be replaced with a better one.
 
 ### Solutions Are Context-Driven
 
