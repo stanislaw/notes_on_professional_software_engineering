@@ -72,6 +72,7 @@ new ideas emerge and old ones get revised.
   - [Keep Team Knowledge Alive](#keep-team-knowledge-alive)
   - [Create a Superset of Conflicting Interests or Clarify the Problem](#create-a-superset-of-conflicting-interests-or-clarify-the-problem)
   - [Avoid "us vs. them". Use names instead.](#avoid-us-vs-them-use-names-instead)
+  - [Prefer direct statements over contrastive statements](#prefer-direct-statements-over-contrastive-statements)
 - [Complexity and Cognitive Load](#complexity-and-cognitive-load)
   - [Solving Right Problems](#solving-right-problems)
   - [Good model of the problem and solution](#good-model-of-the-problem-and-solution)
@@ -1168,6 +1169,18 @@ example, write "the XYZ team", "the customer", or "Alice and Bob" instead of
 
 Using explicit names makes communication more precise, reduces ambiguity, and
 helps keep discussions focused on collaboration rather than group identity.
+
+### Prefer direct statements over contrastive statements
+
+Prefer stating an idea directly. Avoid using the pattern "X is not Y, but Z" or
+"X is Z rather than Y" too often.
+
+These constructions are useful when the contrast itself matters, for example
+when correcting a common misunderstanding. Otherwise, they make the reader
+process two ideas where one would be enough.
+
+A text becomes easier to follow when the main narrative is built from direct
+statements. Add contrasts only when they help explain an important distinction.
 
 ## Complexity and Cognitive Load
 
