@@ -72,6 +72,21 @@ revising older ideas as my views change.
   - [Create a Superset of Conflicting Interests or Clarify the Problem](#create-a-superset-of-conflicting-interests-or-clarify-the-problem)
   - [Avoid "us vs. them". Use names instead.](#avoid-us-vs-them-use-names-instead)
   - [Prefer direct statements over contrastive statements](#prefer-direct-statements-over-contrastive-statements)
+- [Meetings](#meetings)
+  - [Direct the meeting instead of letting it drift](#direct-the-meeting-instead-of-letting-it-drift)
+  - [Sound Check](#sound-check)
+  - [Ensure the Key People Are Attending](#ensure-the-key-people-are-attending)
+  - [Meeting Agenda](#meeting-agenda)
+  - [Confirm and Adapt the Agenda Before Starting a Meeting](#confirm-and-adapt-the-agenda-before-starting-a-meeting)
+  - [Balance the Agenda with the Meeting Flow](#balance-the-agenda-with-the-meeting-flow)
+  - [Balanced participation in meetings](#balanced-participation-in-meetings)
+  - [Avoid interrupting each other](#avoid-interrupting-each-other)
+  - [Meeting Notes](#meeting-notes)
+  - [Meeting Notes: Manual vs. Automatic](#meeting-notes-manual-vs-automatic)
+  - [Capturing Meeting Results](#capturing-meeting-results)
+  - [Briefing In](#briefing-in)
+  - [Briefing Out](#briefing-out)
+  - [Sharing Screen & Presenting Material](#sharing-screen--presenting-material)
 - [Complexity and Cognitive Load](#complexity-and-cognitive-load)
   - [Solving Right Problems](#solving-right-problems)
   - [Good model of the problem and solution](#good-model-of-the-problem-and-solution)
@@ -183,21 +198,6 @@ revising older ideas as my views change.
   - [Too Much Structure Overload](#too-much-structure-overload)
   - [Encyclopedic Document](#encyclopedic-document)
   - [Organize Documents Around Complete Topics](#organize-documents-around-complete-topics)
-- [Meetings](#meetings)
-  - [Direct the meeting instead of letting it drift](#direct-the-meeting-instead-of-letting-it-drift)
-  - [Sound Check](#sound-check)
-  - [Ensure the Key People Are Attending](#ensure-the-key-people-are-attending)
-  - [Meeting Agenda](#meeting-agenda)
-  - [Confirm and Adapt the Agenda Before Starting a Meeting](#confirm-and-adapt-the-agenda-before-starting-a-meeting)
-  - [Balance the Agenda with the Meeting Flow](#balance-the-agenda-with-the-meeting-flow)
-  - [Balanced participation in meetings](#balanced-participation-in-meetings)
-  - [Avoid interrupting each other](#avoid-interrupting-each-other)
-  - [Meeting Notes](#meeting-notes)
-  - [Meeting Notes: Manual vs. Automatic](#meeting-notes-manual-vs-automatic)
-  - [Capturing Meeting Results](#capturing-meeting-results)
-  - [Briefing In](#briefing-in)
-  - [Briefing Out](#briefing-out)
-  - [Sharing Screen & Presenting Material](#sharing-screen--presenting-material)
 - [Systems](#systems)
   - [Understand The System Deeply Enough To Make Changes](#understand-the-system-deeply-enough-to-make-changes)
   - [Good Enough Is Often Best](#good-enough-is-often-best)
@@ -1180,6 +1180,211 @@ process two ideas where one would be enough.
 
 A text becomes easier to follow when the main narrative is built from direct
 statements. Add contrasts only when they help explain an important distinction.
+
+## Meetings
+
+### Direct the meeting instead of letting it drift
+
+Every meeting should have someone actively directing it. Without facilitation,
+discussions tend to drift between topics, repeat previous points, or spend too
+much time on low-priority issues.
+
+The meeting facilitator is responsible for keeping the discussion aligned with
+the agenda, moving the group to the next topic when appropriate, involving the
+right participants, and parking unrelated issues for later.
+
+Directing a meeting does not mean dominating the discussion. It means helping
+the group use its time effectively and ensuring that the meeting achieves its
+purpose.
+
+### Sound Check
+
+It's great when everyone joins a meeting on time, but an often-overlooked
+practice is doing a quick sound and video check to ensure everything is working
+smoothly. A good rule of thumb is to join:
+
+- 5 minutes early for routine meetings.
+- 15-30+ minutes early for important meetings, to handle any technical issues in
+  advance.
+
+### Ensure the Key People Are Attending
+
+Some meetings have key attendees who must be present for the meeting to be
+effective. Make sure all key people have checked in and no one is left out.
+People may be late or missing for many reasons, including technical issues with
+meeting software. If the meeting has an important strategic goal, confirm that
+all key attendees are present. If someone important is missing, check with them
+or their contact before deciding to proceed without them.
+
+### Meeting Agenda
+
+A well-prepared meeting runs smoothly when attendees know what to expect.
+
+- A strong meeting has a predefined agenda that allows participants to follow a
+  clear execution plan.
+- Is the agenda known in advance?
+- Can you or your team define it?
+- Are there questions or answers that can be prepared beforehand?
+
+### Confirm and Adapt the Agenda Before Starting a Meeting
+
+When starting a meeting, consider presenting the entire agenda to the group
+before going into the first topic. This helps participants prepare for what is
+coming.
+
+Presenting the agenda upfront gives everyone a better understanding of the
+meeting's structure. It can also be a good opportunity to rearrange agenda items
+if some topics are closely related and can be discussed together. Additionally,
+participants whose only concern is a specific topic may be able to leave the
+meeting once that topic has been covered.
+
+The initial agenda should not be treated as fixed. At the beginning of the
+meeting, participants may suggest additional discussion points or identify
+topics that have become more important since the agenda was prepared. Consider
+editing and reordering the agenda to match the current priorities, the people
+present, and the momentum of the discussion.
+
+At the same time, the agenda exists to keep the meeting focused and to avoid
+unnecessary distractions. An experienced facilitator should use their best
+judgment to decide when to keep the discussion on the planned agenda and when it
+is worth adjusting the agenda to capture a valuable opportunity. The goal is not
+to follow the agenda rigidly or to change it constantly, but to use it as a tool
+that helps the meeting achieve the best outcome.
+
+Starting a meeting without first reviewing and confirming the agenda leaves
+participants without a clear overview of the discussion. As a result, they may
+not fully understand the meeting's structure or how the individual topics fit
+together.
+
+### Balance the Agenda with the Meeting Flow
+
+A good meeting facilitator balances two competing goals. On one hand, the
+facilitator should keep the meeting focused, follow the agenda, and prevent
+unnecessary side discussions.
+
+On the other hand, the participants are often best prepared to discuss only a
+subset of the agenda. Sometimes an unexpected discussion emerges because the
+right people are present at the right time. These conversations can produce the
+most valuable outcomes, even if they were not part of the original plan.
+
+A facilitator should therefore use judgment rather than follow the agenda
+mechanically. Sometimes it is best to bring the discussion back on track. At
+other times, it is better to let the conversation flow naturally and adjust the
+agenda to take advantage of the opportunity. The agenda is a tool to help the
+meeting, not the purpose of the meeting itself.
+
+### Balanced participation in meetings
+
+A useful meeting heuristic is **balanced participation** or **equal airtime**:
+people who need to contribute should have a reasonable chance to speak. This
+does not mean everyone has to talk for exactly the same amount of time. Some
+people will naturally speak more because of their role or expertise.
+
+Some people are also naturally more quiet and may not enter the conversation
+themselves. The facilitator should notice this and explicitly invite them to
+speak, for example: "What do you think about this?" or "Do you see any problems
+here?" This can help make sure that silence does not mean that someone has
+nothing to contribute.
+
+### Avoid interrupting each other
+
+A facilitator should watch for people interrupting each other. People have
+different discussion styles: some are comfortable with fast, competitive
+discussions, while others find interruptions irritating or disrespectful.
+
+Especially in larger groups, the default should be to **let people finish before
+responding**. The facilitator should notice repeated interruptions and, when
+needed, explicitly ask dominant interrupters to let their colleagues finish.
+This helps everyone feel heard and respected and creates a better team climate.
+
+### Meeting Notes
+
+Meetings often lack structure, and when no notes are taken, valuable discussions
+can be lost. A better approach is for someone to take ownership of note-taking
+in real-time, ideally on a shared screen so everyone can see what is being
+recorded.
+
+- If your team owns the agenda, align meeting notes with the planned topics.
+- Structure notes so key points and next steps are clear.
+
+### Meeting Notes: Manual vs. Automatic
+
+Taking meeting notes manually requires at least one participant to understand
+the discussion well enough to summarize it. This requires additional effort, but
+it also forces active processing of the information. If the notes are shared on
+the screen during the meeting, other participants can review them, correct
+mistakes, and confirm a shared understanding of what was discussed.
+
+Automatically generated meeting transcripts or AI summaries reduce this mental
+effort. While they can be valuable as a record of the meeting, they do not
+provide the same benefit of forcing participants to process and validate the
+information as it is being discussed.
+
+AI-generated notes are therefore best treated as a complement to manual
+note-taking, not a complete replacement. The value of manual notes is not only
+the final document but also the thinking that happens while creating it.
+
+### Capturing Meeting Results
+
+A meeting without tangible outcomes is just an expensive conversation. At a
+minimum, meetings should result in:
+
+- Action points: tasks, follow-ups, next meetings.
+- Decisions made.
+- Recognized trade-offs.
+
+Whenever possible, capturing processes or architectures in a diagram is better
+than a simple bullet point. Even if no formal notes are recorded, every
+participant leaves with takeaways and mental models - but written records
+significantly increase the meeting's effectiveness.
+
+Anti-pattern: Running meetings without documenting useful outcomes, leading to
+wasted time and repeated discussions.
+
+### Briefing In
+
+Before the actual meeting, getting alignment among participants is key, whether
+for internal team discussions or external events like conferences and large
+review meetings. When a team participates in an external meeting, it is crucial
+that everyone is on the same page and presents a unified front, avoiding any
+visible disagreement or misalignment.
+
+Good questions to determine if a pre-meeting briefing is needed:
+
+- How many attendees already know what will be presented?
+- Does the content introduce significant innovation that requires prior context?
+  Could too much new information create confusion within the presenting team?
+
+Common pitfalls:
+
+- Discussing internal team matters in the presence of external participants.
+- Asking too many unrelated questions that derail the focus of the meeting,
+  particularly when it disrupts team cohesion and diverts attention from the
+  main agenda. This is especially problematic when an individual undermines the
+  shared position of the team by introducing misalignment.
+
+### Briefing Out
+
+When a meeting involves an external party, it is sometimes useful to meet again
+with a smaller group in a so-called debrief meeting to discuss the results and
+action points. During such a meeting, the collected information, impressions,
+the team's performance during the meeting, and the further strategy can be
+discussed to prepare for the next round of exchanges with the external party,
+such as a customer, a supplier, or a project partner.
+
+Debriefs can also be useful for onboarding new people into the project work, as
+well as for keeping the existing team aligned on the ongoing engineering
+activities and the latest project status.
+
+### Sharing Screen & Presenting Material
+
+- Share only the relevant content - close unrelated applications, especially
+  internal company chats, before presenting to an external audience.
+- If you need to access other files or perform actions outside the presentation,
+  unshare your screen first, complete the task, then reshare only the necessary
+  content.
+- If your team is presenting to an external party, align on the materials
+  beforehand to ensure consistency in messaging.
 
 ## Complexity and Cognitive Load
 
@@ -2778,211 +2983,6 @@ The lessons are simple:
 - Keep each major topic in one place whenever possible.
 - Minimize cross-cutting between chapters.
 - Make each chapter understandable on its own.
-
-## Meetings
-
-### Direct the meeting instead of letting it drift
-
-Every meeting should have someone actively directing it. Without facilitation,
-discussions tend to drift between topics, repeat previous points, or spend too
-much time on low-priority issues.
-
-The meeting facilitator is responsible for keeping the discussion aligned with
-the agenda, moving the group to the next topic when appropriate, involving the
-right participants, and parking unrelated issues for later.
-
-Directing a meeting does not mean dominating the discussion. It means helping
-the group use its time effectively and ensuring that the meeting achieves its
-purpose.
-
-### Sound Check
-
-It's great when everyone joins a meeting on time, but an often-overlooked
-practice is doing a quick sound and video check to ensure everything is working
-smoothly. A good rule of thumb is to join:
-
-- 5 minutes early for routine meetings.
-- 15-30+ minutes early for important meetings, to handle any technical issues in
-  advance.
-
-### Ensure the Key People Are Attending
-
-Some meetings have key attendees who must be present for the meeting to be
-effective. Make sure all key people have checked in and no one is left out.
-People may be late or missing for many reasons, including technical issues with
-meeting software. If the meeting has an important strategic goal, confirm that
-all key attendees are present. If someone important is missing, check with them
-or their contact before deciding to proceed without them.
-
-### Meeting Agenda
-
-A well-prepared meeting runs smoothly when attendees know what to expect.
-
-- A strong meeting has a predefined agenda that allows participants to follow a
-  clear execution plan.
-- Is the agenda known in advance?
-- Can you or your team define it?
-- Are there questions or answers that can be prepared beforehand?
-
-### Confirm and Adapt the Agenda Before Starting a Meeting
-
-When starting a meeting, consider presenting the entire agenda to the group
-before going into the first topic. This helps participants prepare for what is
-coming.
-
-Presenting the agenda upfront gives everyone a better understanding of the
-meeting's structure. It can also be a good opportunity to rearrange agenda items
-if some topics are closely related and can be discussed together. Additionally,
-participants whose only concern is a specific topic may be able to leave the
-meeting once that topic has been covered.
-
-The initial agenda should not be treated as fixed. At the beginning of the
-meeting, participants may suggest additional discussion points or identify
-topics that have become more important since the agenda was prepared. Consider
-editing and reordering the agenda to match the current priorities, the people
-present, and the momentum of the discussion.
-
-At the same time, the agenda exists to keep the meeting focused and to avoid
-unnecessary distractions. An experienced facilitator should use their best
-judgment to decide when to keep the discussion on the planned agenda and when it
-is worth adjusting the agenda to capture a valuable opportunity. The goal is not
-to follow the agenda rigidly or to change it constantly, but to use it as a tool
-that helps the meeting achieve the best outcome.
-
-Starting a meeting without first reviewing and confirming the agenda leaves
-participants without a clear overview of the discussion. As a result, they may
-not fully understand the meeting's structure or how the individual topics fit
-together.
-
-### Balance the Agenda with the Meeting Flow
-
-A good meeting facilitator balances two competing goals. On one hand, the
-facilitator should keep the meeting focused, follow the agenda, and prevent
-unnecessary side discussions.
-
-On the other hand, the participants are often best prepared to discuss only a
-subset of the agenda. Sometimes an unexpected discussion emerges because the
-right people are present at the right time. These conversations can produce the
-most valuable outcomes, even if they were not part of the original plan.
-
-A facilitator should therefore use judgment rather than follow the agenda
-mechanically. Sometimes it is best to bring the discussion back on track. At
-other times, it is better to let the conversation flow naturally and adjust the
-agenda to take advantage of the opportunity. The agenda is a tool to help the
-meeting, not the purpose of the meeting itself.
-
-### Balanced participation in meetings
-
-A useful meeting heuristic is **balanced participation** or **equal airtime**:
-people who need to contribute should have a reasonable chance to speak. This
-does not mean everyone has to talk for exactly the same amount of time. Some
-people will naturally speak more because of their role or expertise.
-
-Some people are also naturally more quiet and may not enter the conversation
-themselves. The facilitator should notice this and explicitly invite them to
-speak, for example: "What do you think about this?" or "Do you see any problems
-here?" This can help make sure that silence does not mean that someone has
-nothing to contribute.
-
-### Avoid interrupting each other
-
-A facilitator should watch for people interrupting each other. People have
-different discussion styles: some are comfortable with fast, competitive
-discussions, while others find interruptions irritating or disrespectful.
-
-Especially in larger groups, the default should be to **let people finish before
-responding**. The facilitator should notice repeated interruptions and, when
-needed, explicitly ask dominant interrupters to let their colleagues finish.
-This helps everyone feel heard and respected and creates a better team climate.
-
-### Meeting Notes
-
-Meetings often lack structure, and when no notes are taken, valuable discussions
-can be lost. A better approach is for someone to take ownership of note-taking
-in real-time, ideally on a shared screen so everyone can see what is being
-recorded.
-
-- If your team owns the agenda, align meeting notes with the planned topics.
-- Structure notes so key points and next steps are clear.
-
-### Meeting Notes: Manual vs. Automatic
-
-Taking meeting notes manually requires at least one participant to understand
-the discussion well enough to summarize it. This requires additional effort, but
-it also forces active processing of the information. If the notes are shared on
-the screen during the meeting, other participants can review them, correct
-mistakes, and confirm a shared understanding of what was discussed.
-
-Automatically generated meeting transcripts or AI summaries reduce this mental
-effort. While they can be valuable as a record of the meeting, they do not
-provide the same benefit of forcing participants to process and validate the
-information as it is being discussed.
-
-AI-generated notes are therefore best treated as a complement to manual
-note-taking, not a complete replacement. The value of manual notes is not only
-the final document but also the thinking that happens while creating it.
-
-### Capturing Meeting Results
-
-A meeting without tangible outcomes is just an expensive conversation. At a
-minimum, meetings should result in:
-
-- Action points: tasks, follow-ups, next meetings.
-- Decisions made.
-- Recognized trade-offs.
-
-Whenever possible, capturing processes or architectures in a diagram is better
-than a simple bullet point. Even if no formal notes are recorded, every
-participant leaves with takeaways and mental models - but written records
-significantly increase the meeting's effectiveness.
-
-Anti-pattern: Running meetings without documenting useful outcomes, leading to
-wasted time and repeated discussions.
-
-### Briefing In
-
-Before the actual meeting, getting alignment among participants is key, whether
-for internal team discussions or external events like conferences and large
-review meetings. When a team participates in an external meeting, it is crucial
-that everyone is on the same page and presents a unified front, avoiding any
-visible disagreement or misalignment.
-
-Good questions to determine if a pre-meeting briefing is needed:
-
-- How many attendees already know what will be presented?
-- Does the content introduce significant innovation that requires prior context?
-  Could too much new information create confusion within the presenting team?
-
-Common pitfalls:
-
-- Discussing internal team matters in the presence of external participants.
-- Asking too many unrelated questions that derail the focus of the meeting,
-  particularly when it disrupts team cohesion and diverts attention from the
-  main agenda. This is especially problematic when an individual undermines the
-  shared position of the team by introducing misalignment.
-
-### Briefing Out
-
-When a meeting involves an external party, it is sometimes useful to meet again
-with a smaller group in a so-called debrief meeting to discuss the results and
-action points. During such a meeting, the collected information, impressions,
-the team's performance during the meeting, and the further strategy can be
-discussed to prepare for the next round of exchanges with the external party,
-such as a customer, a supplier, or a project partner.
-
-Debriefs can also be useful for onboarding new people into the project work, as
-well as for keeping the existing team aligned on the ongoing engineering
-activities and the latest project status.
-
-### Sharing Screen & Presenting Material
-
-- Share only the relevant content - close unrelated applications, especially
-  internal company chats, before presenting to an external audience.
-- If you need to access other files or perform actions outside the presentation,
-  unshare your screen first, complete the task, then reshare only the necessary
-  content.
-- If your team is presenting to an external party, align on the materials
-  beforehand to ensure consistency in messaging.
 
 ## Systems
 
