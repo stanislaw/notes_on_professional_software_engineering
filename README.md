@@ -19,6 +19,7 @@ revising older ideas as my views change.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
 - [Day-to-Day Work](#day-to-day-work)
   - [Leave Things Better](#leave-things-better)
   - [Identify and Solve Issues](#identify-and-solve-issues)
@@ -30,6 +31,7 @@ revising older ideas as my views change.
   - [Think Upstream and Downstream](#think-upstream-and-downstream)
   - [Avoid Work That Can Be Avoided](#avoid-work-that-can-be-avoided)
   - [Understand and Respect the Customer](#understand-and-respect-the-customer)
+  - [120% Customer Ownership](#120%25-customer-ownership)
   - [Choose Where to Innovate (Carefully)](#choose-where-to-innovate-carefully)
   - [Automate Everything](#automate-everything)
   - [Quick Exploration](#quick-exploration)
@@ -432,6 +434,37 @@ honest update, even when delivering bad news, builds trust. Customers almost
 always prefer being informed early over being surprised later. A transparent
 explanation of issues, trade-offs, and risks shows respect for their time,
 planning, and decision-making.
+
+### 120% Customer Ownership
+
+Give 120% to the customer, at every level of the customer-supplier relationship.
+Care about what happens to your work after you hand it over. Is the customer
+able to use it comfortably? Does it solve their problem? Does it work well in
+the real world? Your responsibility does not end just because your part is
+technically finished.
+
+Do not just deliver your part. Treat the person receiving your work as your
+customer and care about what happens to it next, all the way to the final
+customer.
+
+This idea has a strong connection to Kaoru Ishikawa's quality-management
+principles. Ishikawa introduced the principle "The next process is your
+customer" in 1950. He explained it further: "It's important that you carry out
+your work based on the belief that the next process is your customer, and
+therefore, you should not cause trouble to your customer."
+([source](https://www.juse.jp/ishikawa/e/man/Ch16_Ver2_150717.pdf))
+
+Not giving 120% but, for example, 80%, 90%, or even 100%, as one may think,
+introduces a gray area that has to be worked through anyway when the customer
+reveals a gap and the work has to go back to the supplier or be compensated for
+in some other way. Depending on the project, these gaps can be more or less
+painful, or even deadly, for a given customer or business.
+
+If the supplier builds in some margin - say, 20% extra care and attention to
+detail - the likelihood of such gray areas surfacing is reduced.
+
+The difference between 80-100% and 100-120% is what makes the difference between
+poor/average customer service and average-to-exceptional customer service.
 
 ### Choose Where to Innovate (Carefully)
 
@@ -2521,6 +2554,7 @@ A merge request review is much easier when the MR is dedicated to only one
 aspect of change, so the reviewer can focus on that aspect.
 
 - **Behavioral changes:**
+
   - Adding new features
   - Refactoring or improving existing software
   - Deleting features
