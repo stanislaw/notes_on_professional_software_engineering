@@ -19,7 +19,6 @@ revising older ideas as my views change.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Day-to-Day Work](#day-to-day-work)
   - [Leave Things Better](#leave-things-better)
   - [Identify and Solve Issues](#identify-and-solve-issues)
@@ -73,6 +72,7 @@ revising older ideas as my views change.
   - [Keep Team Knowledge Alive](#keep-team-knowledge-alive)
   - [Create a Superset of Conflicting Interests or Clarify the Problem](#create-a-superset-of-conflicting-interests-or-clarify-the-problem)
   - [Avoid "us vs. them". Use names instead.](#avoid-us-vs-them-use-names-instead)
+  - [Write messages so they can be forwarded directly](#write-messages-so-they-can-be-forwarded-directly)
   - [Prefer direct statements over contrastive statements](#prefer-direct-statements-over-contrastive-statements)
 - [Meetings](#meetings)
   - [Direct the meeting instead of letting it drift](#direct-the-meeting-instead-of-letting-it-drift)
@@ -1201,6 +1201,31 @@ example, write "the XYZ team", "the customer", or "Alice and Bob" instead of
 
 Using explicit names makes communication more precise, reduces ambiguity, and
 helps keep discussions focused on collaboration rather than group identity.
+
+### Write messages so they can be forwarded directly
+
+When you write a message to someone who will likely forward it to another person
+or company, write it so that they can forward it without significant rewriting.
+
+Write the message with the final recipient in mind. Avoid wording that requires
+the intermediate recipient to explain, translate, or reformulate your point.
+Ideally, the final recipient should be able to read your original message
+directly and understand its context and purpose.
+
+Typical examples are communicating with a systems engineer who distributes
+information to other teams or companies, or with a manager who needs to
+communicate your concern further up the management chain.
+
+In such cases, your recipient will most likely prefer to simply forward your
+message instead of spending time adapting it. Preparing the message for
+forwarding has two advantages:
+
+1. You save the intermediate recipient extra work.
+2. You formulate your concern directly for the final recipient, without
+   unnecessary indirection through the intermediate recipient.
+
+The general principle is to do 100% of the communication and formulation work
+upfront instead of leaving part of this work to your intermediate contact.
 
 ### Prefer direct statements over contrastive statements
 
@@ -2554,7 +2579,6 @@ A merge request review is much easier when the MR is dedicated to only one
 aspect of change, so the reviewer can focus on that aspect.
 
 - **Behavioral changes:**
-
   - Adding new features
   - Refactoring or improving existing software
   - Deleting features
