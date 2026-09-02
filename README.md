@@ -106,6 +106,7 @@ revising older ideas as my views change.
   - [Masking (shadowing)](#masking-shadowing)
   - [Weighting system](#weighting-system)
   - [Too many layers dilute understanding and ownership](#too-many-layers-dilute-understanding-and-ownership)
+  - [User-friendly tools win in the long term](#user-friendly-tools-win-in-the-long-term)
 - [Design](#design)
   - [Functional analysis and decomposition](#functional-analysis-and-decomposition)
   - [Dump and organize](#dump-and-organize)
@@ -1766,6 +1767,24 @@ The widespread desire for "flat hierarchies" can be understood as an attempt to
 reduce this distance: fewer layers make it easier for people to see the purpose
 of their work, understand what is happening elsewhere, and maintain a sense of
 ownership.
+
+### User-friendly tools win in the long term
+
+Over time, user-friendly tools tend to win over sophisticated or inconvenient
+tools.
+
+Software development shows this progression: Machine code -> Assembler -> C ->
+Python -> Writing code with AI using human language
+
+Each step moves more work from the developer to the tool. What once required
+expert knowledge becomes part of the next abstraction.
+
+Convenience can matter more than capability. People may ignore a powerful tool
+even when it is readily available and choose a less capable tool simply because
+it is easier to use.
+
+Craft does not disappear, but automation gradually takes over more of it. What
+starts as expert work can eventually become the default behavior of a tool.
 
 ## Design
 
